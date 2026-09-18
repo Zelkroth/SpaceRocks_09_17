@@ -36,11 +36,17 @@
   "name":"SpaceRocks_09_17",
   "resources":[
     {"id":{"name":"Obj_Bullet","path":"objects/Obj_Bullet/Obj_Bullet.yy",},},
+    {"id":{"name":"Obj_Button_Parent","path":"objects/Obj_Button_Parent/Obj_Button_Parent.yy",},},
+    {"id":{"name":"Obj_Button_Play","path":"objects/Obj_Button_Play/Obj_Button_Play.yy",},},
     {"id":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"Obj_Rock","path":"objects/Obj_Rock/Obj_Rock.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
+    {"id":{"name":"Object8","path":"objects/Object8/Object8.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
+    {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},
@@ -48,7 +54,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
