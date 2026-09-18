@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_button_play",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_button_play",
   "overriddenProperties":[
