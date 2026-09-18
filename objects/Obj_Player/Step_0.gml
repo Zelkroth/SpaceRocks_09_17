@@ -44,8 +44,7 @@ move_wrap(1, 1, 0);
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Pressed
 /// @DnDVersion : 1.1
 /// @DnDHash : 5045586B
-/// @DnDArgument : "not" "1"
-var l5045586B_0;l5045586B_0 = mouse_check_button_pressed(mb_left);if (!l5045586B_0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
+var l5045586B_0;l5045586B_0 = mouse_check_button_pressed(mb_left);if (l5045586B_0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 12073998
 	/// @DnDParent : 5045586B
